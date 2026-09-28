@@ -1,3 +1,9 @@
+import streamlit as st
+import struct
+import pandas as pd
+import random
+
+
 # ============================================================
 # CONFIGURACIÓN
 # ============================================================
